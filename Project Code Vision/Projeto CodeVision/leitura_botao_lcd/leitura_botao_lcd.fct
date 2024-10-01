@@ -1,6 +1,0 @@
-main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"leitura_botao_lcd.c" LINE:436
-print_array DSTACK_USAGE:6 DSTACK_LEVEL:6 FILE:"leitura_botao_lcd.c" LINE:212
-printf DSTACK_USAGE:10 DSTACK_LEVEL:16 FILE:"C:\cvavr2\lib\stdio.lib" LINE:1476
-_print DSTACK_USAGE:20 DSTACK_LEVEL:36 FILE:"C:\cvavr2\lib\stdio.lib" LINE:503
-strlen DSTACK_USAGE:2 DSTACK_LEVEL:38 FILE:"C:\cvavr2\lib\string.lib" LINE:1707
-timer0_ovf_isr DSTACK_USAGE:5 DSTACK_LEVEL:43 FILE:"leitura_botao_lcd.c" LINE:97
