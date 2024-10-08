@@ -22,4 +22,9 @@ To enhance the project, it would be interesting to implement a more stable braki
 Despite the limitations, the project was successfully completed, meeting the proposed demands.
 
 ## Files in the Repository
-In this repository, you will find scripts demonstrating the use of peripherals, as well as the CodeVision IDE project files, containing the source code (.c) and project file (.prj). A demonstration video of the project is also available: **"Vídeo Demonstração Projeto.mp4."**
+This repository contains scripts demonstrating the use of peripherals, as well as the CodeVision IDE project files, including the source code (.c) and the project file (.prj).
+
+A demonstration video of the project is also available: **"Project Demonstration Video.mp4"**.
+
+You can also access the video on YouTube via this [link](https://youtu.be/sUO7uEAPkws).
+
